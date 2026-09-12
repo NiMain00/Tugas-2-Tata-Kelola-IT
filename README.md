@@ -1,5 +1,5 @@
 # Tugas-2-Tata-Kelola-IT
-Silakan dikumpulkan di repository ini
+Silakan dikumpulkan di repository ini paling lambat Senin 14 September ukul 16.00 wita
 Amati satu sistem TI yang ada di sekitar anda. 
 Buat diagram Goals Cascade dalam satu halaman yang menghubungkan: Stakeholder → Tujuan Organisasi → Tujuan TI → Keputusan Teknis (di materi pada slide 21).
 Identifikasi stakeholder yang relevan dengan jelas
